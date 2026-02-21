@@ -1,6 +1,6 @@
 ## Hi, I'm Axata 👋
 
-🎓 Master of Applied Computer Science (MACS) student  
+🎓 Master of Applied Computer Science (MACS)  
 ☁️ Cloud & DevOps enthusiast  
 🚀 Currently building skills through **90 Days of DevOps**  
 📊 Business Systems Analyst with enterprise automation experience  
