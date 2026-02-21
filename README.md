@@ -7,6 +7,9 @@
 
 🏅 **SAFe® AI-Empowered Scrum Master**  
 🏅 **ITIL® Foundation Certified**
+🏅 **Oracle Certified Java Associate**
+🏅 **UiPath Certified RPA Associate**
+🏅 **AssistEdge Certified RPA Developer**
 
 ---
 
